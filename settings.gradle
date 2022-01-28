@@ -1,0 +1,19 @@
+// pluginManagement {
+//     repositories {
+//         gradlePluginPortal()
+//         google()
+//         mavenCentral()
+//     }
+// }
+// dependencyResolutionManagement {
+//     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+//     repositories {
+//         google()
+//         mavenCentral()
+//     }
+// }
+include ':app', ':libcore-ui-release', ':libcore-release'
+// rootProject.name = "mvx"
+// include ':app'
+include ':mvc'
+include ':mvp'
