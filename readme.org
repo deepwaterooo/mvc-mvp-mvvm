@@ -1,0 +1,15 @@
+#+latex_class: cn-article
+#+title: Android MVC MVP MVVM practice
+#+author: deepwaterooo
+
+* MVC MVP MVVP 
+- today is all about android libraries/modules/SDK APIs, SDK API design for android
+  apps, including this multiple library tiny proj (still has data
+  binding runtime bugs to be fixed).
+- to look deeper, when there are intersepted dependencies within multiple
+  module projects, the packing of dependencies into .aar could be
+  challenging issues (bug: duplicated dependency etc) to solve on hands on projects, but nothing unsolvable。。。 
+- Need to dig slightly deeper into android SDK - Unity game
+  communication callbacks API design for both android SDK side, and
+  Unity game side, and also unity game builds process when there is
+  SDK upgrade, and understand all the theories behind it. 
